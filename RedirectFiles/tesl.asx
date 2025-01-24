@@ -1,0 +1,6 @@
+<asx version="3.0">
+  <entry>
+    <title>Example Stream</title>
+    <ref href="rtmp://cubecinema.zapto.org/live/music" />
+  </entry>
+</asx>
